@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil GitHub 👋
 
-Olá! Sou um Engenheiro de Software apaixonado pelo desenvolvimento backend e comprometido em construir sistemas web full stack robustos e eficientes. Atualmente, faço parte da incrível equipe da Education Journey, onde tenho a oportunidade de trabalhar com tecnologias modernas e desafiadoras.
+Olá! Sou um Engenheiro de Software apaixonado pelo desenvolvimento backend e comprometido em construir sistemas web full stack robustos e eficientes.
 
 ## Tecnologias que tenho experiência 🚀:
 

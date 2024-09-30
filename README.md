@@ -1,36 +1,31 @@
-# Bem-vindo ao Meu Perfil GitHub 👋
+<div align="center">
+  <h3 style="border-bottom: none;">What's up? My name is Jeff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
+</div>
 
-Olá! Sou um Engenheiro de Software apaixonado pelo desenvolvimento backend e comprometido em construir sistemas web full stack robustos e eficientes.
 
-## Tecnologias que tenho experiência 🚀:
+<section align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <p><i>"Innovation is essential, learning is constant."</i><br>
+  A Full-stack developer enthusiast who loves playing games in his spare time.<br>
+  Graduated in <strong>Systems Analysis and Development</strong> by UNIFEOB.<br>
+  I’m currently open for a new job opportunity, this is <a href="https://read.cv/jeffersonventura">my resume</a>.</p>
 
-### Backend:
-- Laravel | PHP | Node.js | Nest JS
-- TypeORM | TypeScript | Python | RabbitMQ
 
-### Frontend:
-- React | Next JS | Material UI | CSS | JavaScript | Bootstrap
+  ### 🌐 Socials
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/jefferson-ventura)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:jeffersonsilvamuz@gmail.com)
 
-### Banco de Dados:
-- PostgreSQL | SQL Server | MySQL
-
-## Construção Sólida de Sistemas Web:
-
-Ao longo da minha jornada como Engenheiro de Software, tenho trabalhado em diversos projetos, aplicando meu conhecimento em tecnologias backend como Laravel, Node, Nest JS, TypeORM, TypeScript, Python, e RabbitMQ. Além disso, também sou proficientes em tecnologias frontend, como React, Next JS, Material UI, CSS, JavaScript e Bootstrap, para criar interfaces envolventes e intuitivas.
-
-## Apoio à Equipe 🤝:
-
-Como membro da equipe, tenho um compromisso sólido com o crescimento coletivo. Ofereço instrução dedicada a novos colegas, contribuindo para a construção de uma equipe capacitada e eficiente. Além disso, forneço suporte técnico proativo aos usuários, garantindo a funcionalidade ininterrupta das aplicações.
-
-## Análise de Dados Inteligente 📊:
-
-Minha experiência se estende à análise inteligente de dados, onde utilizo T-SQL para a geração de relatórios detalhados sobre dados corporativos. Acredito no poder dos dados para orientar decisões informadas e contribuir para o sucesso contínuo dos projetos.
-
-## Contato 📬:
-
-Se você estiver interessado em colaborar, discutir projetos ou simplesmente trocar ideias sobre desenvolvimento, sinta-se à vontade para entrar em contato!
-
-- LinkedIn: [Jefferson Ventura](https://www.linkedin.com/in/jefferson-ventura/)
-- E-mail: jeffersonsilvamuz@gmail.com
-
-Vamos construir algo incrível juntos! 🚀
+  ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
+  <div style="display: inline_block">
+    <img align="center" alt="HTML5 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5 - Advanced">
+    <img align="center" alt="CSS3 Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3 - Intermediate">
+    <img align="center" alt="JavaScript Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript - Basic">
+    <img align="center" alt="TypeScript Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="TypeScript - Basic">
+    <img align="center" alt="Nodejs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJs - Basic">
+    <img align="center" alt="Python Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python - Intermediate">
+    <img align="center" alt="Php Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="Php - Basic">
+    <img align="center" alt="Nestjs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJs - Basic">
+    <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel - Basic">
+  </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</section>

@@ -2,7 +2,6 @@
   <h3 style="border-bottom: none;">What's up? My name is Jeff <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h3>
 </div>
 
-
 <section align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p><i>"Innovation is essential, learning is constant."</i><br>
@@ -27,5 +26,15 @@
     <img align="center" alt="Nestjs Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="NestJs - Basic">
     <img align="center" alt="Laravel Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" title="Laravel - Basic">
   </div>
+
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  
+  <br><a href="devjeffersonventura.pythonanywhere.com/link">
+    <img
+      src="https://devjeffersonventura.pythonanywhere.com/?theme=dark"
+      alt="Current Spotify Song"
+    />
+  </a>
+  
 </section>

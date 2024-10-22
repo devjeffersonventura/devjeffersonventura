@@ -5,7 +5,7 @@
 <section align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   <p><i>"Innovation is essential, learning is constant."</i><br>
-  A Full-stack developer enthusiast who loves playing games in his spare time.<br>
+  A Back-end developer enthusiast who loves playing games in his spare time.<br>
   Graduated in <strong>Systems Analysis and Development</strong> by UNIFEOB.<br>
   I’m currently open for a new job opportunity, this is <a href="https://read.cv/jeffersonventura">my resume</a>.</p>
 
